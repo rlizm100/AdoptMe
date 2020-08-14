@@ -1,4 +1,6 @@
 # AdoptMe
 
+AdoptMe is a site to search for pets available for adoption in your area. 
 
-https://git.heroku.com/infinite-sierra-45270.git
+
+https://glacial-scrubland-60554.herokuapp.com/
